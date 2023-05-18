@@ -1,0 +1,14 @@
+logs_path: logs
+
+lstm:
+  name: lstm_multidoc_ct
+  epochs: 10
+  batch_size: 64
+  model_path: data_volume
+  dataset_size: 1000
+
+bert:
+  path: text_class/datamodel/splitter_nom
+  name: splitter_nom.model.all
+  tokenizer: splitter_nom.model.tokenizer
+

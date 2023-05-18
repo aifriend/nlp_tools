@@ -1,0 +1,9 @@
+development:
+  directories:
+    lang: es
+  spacy:
+    base_model: es_core_news_sm
+    name_model: blank:es
+  transformer:
+    berto_model: dccuchile/bert-base-spanish-wwm-uncased
+    ruperta_model: mrm8488/RuPERTa-base-finetuned-ner

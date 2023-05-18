@@ -1,0 +1,14 @@
+spacy~=3.1.1
+numpy~=1.22.4
+srsly~=2.4.3
+PyYAML~=6.0
+transformers~=4.19.4
+torchvision~=0.12.0
+jsonlines~=3.0.0
+python-Levenshtein
+pandas~=1.5.3
+torch~=1.11.0
+Levenshtein~=0.20.9
+prodigy~=1.11.9
+pyspellchecker==0.7.1
+nltk~=3.8.1
